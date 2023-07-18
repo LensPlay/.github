@@ -1,7 +1,7 @@
 
 # LensPlay
 
-[LensPlay](https://lensplay.xyz) is a decentralized mobile-first video-sharing application built on top of Lens Protocol.
+[LensPlay](https://lensplay.xyz) is a decentralized mobile-first video-sharing application.
 
 ![Banner](https://pbs.twimg.com/profile_banners/1612430272871665666/1686232753/1500x500)
 
